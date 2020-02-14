@@ -28,4 +28,4 @@ Volume : I want to find out the best selling authors and most rated books along 
 for each title, I'm going to find the highest rating .
 
 3)Farheen Mohammad  
-for each author, fnd the count of pages
+for each author, fnd the count of pages.
