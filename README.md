@@ -7,7 +7,7 @@
 LINKS : https://www.kaggle.com/jealousleopard/goodreadsbooks
 
 INTRODUCTION : The dataset is about different books in goodreads website, their authors, ratings, number of visits.
-               I think we will take different colums and perform mapper and reducer to increase the number of users to website.
+               We will take different colums and perform mapper and reducer to increase the number of users to website.
 
 DATA SOURCE : This data set is in excel csv format.(Structured)
               The key attributes we are interested in : Title, Author, Average Ratings.
@@ -25,7 +25,7 @@ Volume : I want to find out the best selling authors and most rated books along 
 
 
 2) Azhar Alali: 
-for each title, I'm going to find the highest rating .
+   for each title, I'm going to find the highest rating .
 
 3)Farheen Mohammad  
-for each author, fnd the count of pages.
+ for each author, fnd the count of pages.
