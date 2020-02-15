@@ -1,8 +1,8 @@
 
 # GOODREADS ANALYSIS 
- Azhar Alali 
- Manasa Ginjupalli
- Farheen Mohammad
+ * Azhar Alali 
+ * Manasa Ginjupalli
+ * Farheen Mohammad
 
 ## LINKS:
 https://www.kaggle.com/jealousleopard/goodreadsbooks
