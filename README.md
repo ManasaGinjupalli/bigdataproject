@@ -1,4 +1,4 @@
-# Big-Data-Project
+
 # GOODREADS ANALYSIS 
  Azhar Alali 
  Manasa Ginjupalli
@@ -12,8 +12,8 @@ The dataset is about different books in goodreads website, their authors, rating
 We will take different colums and perform mapper and reducer to increase the number of users to website.
 
 ## DATA SOURCE:
-This data set is in excel csv format.(Structured)
-The key attributes we are interested in : Title, Author, Average Ratings.
+This data set is in excel csv format (Structured)
+The key attributes of the data set are: Title, Author, Average Ratings.
 
 - **Volume:**  This data set have 10 columns and 13,720 records(1 MB).
 - **Variety:**  This data set is structured and in excel csv format.
@@ -23,11 +23,9 @@ The key attributes we are interested in : Title, Author, Average Ratings.
 
              
 ## BIG DATA PROBLEMS:
- 1)Manasa Ginjupalli:
+* Manasa Ginjupalli:
    for each author, find average rating(average of all his books.)
- 
-2) Azhar Alali: 
+* Azhar Alali: 
    for each title, I'm going to find the highest rating .
-
-3)Farheen Mohammad  
- for each author, fnd the count of pages.
+* Farheen Mohammad:  
+   for each author, fnd the count of pages.
