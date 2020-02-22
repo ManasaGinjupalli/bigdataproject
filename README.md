@@ -28,4 +28,4 @@ The key attributes of the data set are: Title, Author, Average Ratings.
 * Azhar Alali: 
    for each title, I'm going to find the highest rating .
 * Farheen Mohammad:  
-   for each author, fnd the count of pages.
+   for each title ,find the number of authors
