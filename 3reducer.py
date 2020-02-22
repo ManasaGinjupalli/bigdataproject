@@ -7,15 +7,15 @@ thisValue = 0
 
 for line in s:
   sum = line.strip().split('\t')
-  author, average_rating = sum
+  title, authors = sum
 
-  if author != thisKey:
-    if author:
+  if title != thisKey:
+    if title:
       # output the last key value pair result
       r.write(thisKey + '\t' + str(thisValue)+'\n')
 
     # start over when changing keys
-    thisKey = author 
+    thisKey = title 
     thisValue = 0.0
   
   # apply the aggregation function

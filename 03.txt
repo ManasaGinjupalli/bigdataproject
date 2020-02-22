@@ -1,232 +1,322 @@
 	0
-Abraham Lincoln-Michael McCurdy	1.0
-Adam Ginsberg	1.0
-Alex C. Jones-Diane M. Hanson-Stephen K. Ray	1.0
-Alice Sebold	2.0
-Angela Knight-Sahara Kelly-Judy Mays-Marteeka Karland-Kate Douglas-Shelby Morgen-Lacey Savage-Kate Hill-Willa Okati	1.0
-Anne Tyler	1.0
-Anthony Thorlby	1.0
-Arthur Golden	5.0
-Ayn Rand	3.0
-Ayn Rand-Leonard Peikoff	2.0
-Ayn Rand-Michael S. Berliner-Leonard Peikoff	1.0
-Ayn Rand-Nathaniel Branden	1.0
-Ayn Rand-Nathaniel Branden-Alan Greenspan-Robert Hessen	1.0
-Barry R. Cournoyer	1.0
-Bernard Malamud-Kevin Baker	1.0
-Bill Bryson	6.0
-Bill Bryson-William Roberts	1.0
-Billy Collins	1.0
-Brian Greene	1.0
-Brian Herbert	1.0
-Brian Herbert-Kevin J. Anderson	1.0
-Bryce Courtenay	2.0
-Carol Dommermuth-Costa	1.0
-Catharine M. Fishel-Bill Gardner	1.0
-Charles Todd	1.0
-Charles Willeford-Elmore Leonard	1.0
-Charles Willeford-James Lee Burke	1.0
-Charles Willeford-Lawrence Block	1.0
-Chris   Smith-Christopher  Lee-Richard Taylor	1.0
-Chris Malta-Lisa Suttora	1.0
-Christopher Caswell	1.0
-Chuck Klosterman	2.0
-Colin  Wells	1.0
-Cynthia Harrod-Eagles	1.0
-Dale Peck	1.0
-Dan Brown	4.0
-Dan Brown-Daniel Roche	1.0
-Dan Harrington-Bill Robertie	2.0
-Daniel Abraham	1.0
-Dave Lakhani	1.0
-Dave Shea-Molly E. Holzschlag	1.0
-Dave Thomas-Chad Fowler-Andy Hunt	1.0
-Dave Thomas-David Heinemeier Hansson-Leon Breedt-Mike Clark-Thomas  Fuchs-Andreas  Schwarz	1.0
-David        James-Peggy Mulloy-Rob Marshall-Arthur Golden	1.0
-Debbie Raleigh	1.0
-Deidre S. Laiken-A.J. McAllister-Robert Louis Stevenson	1.0
-Delia Sherman	1.0
-Don DeLillo	8.0
-Donald A. Norman	3.0
-Donna Ickes-Edward Sciranko-Keith Vasconcelles	1.0
-Douglas Adams	7.0
-Douglas Adams-Christopher Cerf	1.0
-Douglas Adams-Stephen Fry	1.0
-Dr. Seuss	1.0
-Edward Bulwer-Lytton-John Gregory Betancourt	1.0
-Edward Lear-Laura Huliska-Beith-Edward Mendelson	1.0
-Edward P. Jones	3.0
-Edward P. Jones-Kevin R. Free	1.0
-Eliot Ness-Oscar Fraley	1.0
-Elizabeth Castro	1.0
-Ellen Raskin	1.0
-Ephraim Sevela-Antonina W. Bouis	1.0
-Eric Hobsbawm-Terence O. Ranger-Hugh Trevor-Roper-Prys Morgan-David Cannadine-Bernard S. Cohn	1.0
-Eric Schlosser	1.0
-Ewan McGregor-Charley Boorman-Robert Uhlig	1.0
-Frank Herbert	6.0
-Frank Herbert-Brian Herbert-Kevin J. Anderson	1.0
-Gabriel GarcÃ­a MÃ¡rquez	6.0
-Gabriel GarcÃ­a MÃ¡rquez-Edith Grossman	1.0
-Gabriel GarcÃ­a MÃ¡rquez-Gregory Rabassa	1.0
-Gabriel GarcÃ­a MÃ¡rquez-Gregory Rabassa-J.S. Bernstein	1.0
-Garry Wills	1.0
-Gary Chapman	1.0
-Gary Colombo-Bonnie Lisle	1.0
-Gary Paulsen	2.0
-George Eliot-Edmund White	1.0
-George Smoot-Keay Davidson	1.0
-Gloria Goldreich	1.0
-H.G. Bissinger	1.0
-Harry G. Frankfurt	1.0
-Heidi Baker-Rolland Baker	1.0
-Heidi Boyd	2.0
-Heidi Fleiss-Libby Keatinge	1.0
-Heidi Hayes Jacobs	3.0
-Heidi Murkoff-Sharon Mazel-Heidi Murkoff-Arlene Eisenberg-Sandee Hathaway-Mark D. Widome	1.0
-Henry James-Gabriel Brownstein-Mary Cregan	1.0
-Henry James-Patricia Crick	1.0
-Henry Miller	5.0
-Henry Miller-JiÅ™Ã­ NÃ­l	1.0
-Henry Miller-Thomas H. Moore	1.0
-Hiromu Arakawa-Akira Watanabe	6.0
-J. Torres-Eric  Kim	1.0
-J.J. Isler-Peter Isler	1.0
-J.K. Rowling	2.0
-J.K. Rowling-Mary GrandPrÃ©	5.0
-J.R.R. Tolkien	5.0
-J.R.R. Tolkien-Alan  Lee	1.0
-James Hamilton-Paterson	1.0
-Jane Feather	1.0
-Jared Diamond	1.0
-Jean Gibran-Ø¬Ø¨Ø±Ø§Ù† Ø®Ù„ÙŠÙ„ Ø¬Ø¨Ø±Ø§Ù†-Kahlil Gibran	1.0
-Joan Didion	5.0
-Joan Didion-David Thomson	1.0
-Joan Didion-John Leonard	1.0
-Johanna Spyri-Beverly Cleary-Angelo  Rinaldi	1.0
-John Banville	1.0
-John C. Maxwell-Stephen R. Graves-Thomas G. Addington	1.0
-John Carratello-Patty Carratello-Theresa Wright	1.0
-John Harold Haynes	1.0
-John McPhee	8.0
-John McPhee-William Howarth	1.0
-John Steinbeck	1.0
-John Steinbeck-Jim Taylor	1.0
-Jon Stewart	1.0
-Jon Stewart-Ben Karlin-David Javerbaum-Rich Bloomquist-Steve Bodow-Tim Carvell-Eric Drysdale-J.R. Havlan-Scott Jacobson-Tom Johnson-Rob Kutner-Chris Regan-Jason Reich-Jason Ross-Stephen Colbert-Samantha Bee-Rob Corddry-Brendan Hay-Ed Helms	1.0
-Joseph A. Tainter	1.0
-Joy Harjo-Gloria Bird-Beth Cuthand-Valerie Martinez-Patricia Blanco	1.0
-Jude Fisher	1.0
-Julia Wilkinson	1.0
-Julie Elizabeth Leto-Leslie Kelly-Kimberly Raye	1.0
-Kahlil Gibran-John Walbridge-Robin Waterfield	1.0
-Kahlil Gibran-Suheil Bushrui-Salma H. Al-Kuzbari	1.0
-Kahlil Gibran-Ø¬Ø¨Ø±Ø§Ù† Ø®Ù„ÙŠÙ„ Ø¬Ø¨Ø±Ø§Ù†	2.0
-Kahlil Gibran-Ø¬Ø¨Ø±Ø§Ù† Ø®Ù„ÙŠÙ„ Ø¬Ø¨Ø±Ø§Ù†-Anthony R. Ferris	1.0
-Kate Horsley	1.0
-Kevin Henkes	1.0
-Kevin O'Malley-Carol Heyer-Scott Goto	1.0
-Kevin Trudeau	1.0
-Khaled Hosseini	1.0
-Leo Tolstoy-Amy Mandelker-Constance Garnett	1.0
-Leo Tolstoy-Constance Garnett	1.0
-Leo Tolstoy-Constance Garnett-Amy Mandelker	1.0
-Leo Tolstoy-David Magarshack-Priscilla Meyer	1.0
-Leo Tolstoy-Henry Gifford-Aylmer Maude-Louise Maude	1.0
-Leo Tolstoy-Hugh McLean	1.0
-Leo Tolstoy-Louise Maude-Aylmer Maude	1.0
-Leo Tolstoy-Richard Pevear-Larissa Volokhonsky	1.0
-Leo Tolstoy-Richard Pevear-Larissa Volokhonsky-John Bayley	1.0
-Leonard Goldberg	1.0
-Lonely Planet-Mark Honan	1.0
-Lonely Planet-Sarah Johnstone-Steve Fallon	1.0
-Lonely Planet-Sarah Johnstone-Tom Masters	2.0
-Lonely Planet-Steve Fallon-Pat Yale	1.0
-Louis E. Catron	1.0
-Lucas Carlson-Leonard Richardson	1.0
-Madeleine L'Engle	2.0
-Marc J.  Seifer-William H. Terbo	1.0
-Margaret Johnson-Philip Prowse	1.0
-Marguerite Duras	1.0
-Marguerite Duras-Barbara Bray-Helen Lane Cumberford	1.0
-Marguerite Duras-Barbara Bray-Maxine Hong Kingston	1.0
-Marguerite Duras-Barbara Bray-Ù‚Ù„Ø³Ù… Ø±ÙˆØ¨ÛŒÙ†	1.0
-Marguerite Duras-Richard Seever	1.0
-Marianne Sturman-Leo Tolstoy	1.0
-Mark Smylie	1.0
-Marsha Collier	4.0
-Maureen Kelly-CliffsNotes-William Golding	1.0
-Michael Ochs-Patrick Javault-Ulrike Wasel	1.0
-Mineko Iwasaki-Rande Brown	1.0
-Molly Hatchet	1.0
-Mulk Raj Anand-E.M. Forster	1.0
-Narendra Jadhav	1.0
-Neal Stephenson	10.0
-Neal Stephenson-George F. Jewsbury-Stephen  Bury	1.0
-Neal Stephenson-J. Frederick George	1.0
-Neal Stephenson-Joachim KÃ¶rber	1.0
-Neil Strauss	1.0
-Nick  Webb	1.0
-Nick Flynn	1.0
-Nikola Tesla	1.0
-Nikola Tesla-David Hatcher Childress	1.0
-Nora Roberts	1.0
-Norton Juster-Jules Feiffer	1.0
-Patricia A. McKillip	1.0
-Patrick SÃ¼skind	1.0
-Patrick SÃ¼skind-John E. Woods	1.0
-Paul Auster	12.0
-Paul Auster-Art Spiegelman-Luc Sante	1.0
-Paul Karasik-David Mazzucchelli-Paul Auster-Bob Callahan	1.0
-Paulo Coelho-Alan R. Clarke-James Noel Smith	1.0
-Paulo Coelho-Alan R. Clarke-Ã–zdemir Ä°nce	1.0
-Paulo Coelho-Jean Orecchioni	1.0
-Peter Moon-Preston B. Nichols-Nina Helms	1.0
-Philip K. Howard	1.0
-Philip Roth	1.0
-Philippa Carr	1.0
-Quentin Blake	1.0
-Ralph Ginzburg	1.0
-Richard FariÃ±a-Thomas Pynchon	1.0
-Rob Humphreys-Beth Chaplin-Rebecca Morrill	1.0
-Rob Orsini	1.0
-Robert   Harris	1.0
-Robert A. Heinlein	7.0
-Robert A. Heinlein-Stephen Hickman	1.0
-Robert D. Putnam	1.0
-Robert Louis Stevenson	2.0
-Robert Louis Stevenson-Milo Winter	1.0
-Robert Louis Stevenson-N.C. Wyeth-Timothy Meis	1.0
-Robert Louis Stevenson-Scott McKowen	1.0
-Robert M. Pirsig	1.0
-Rolland Baker-Heidi Baker	1.0
-Ronald L. DiSanto-Thomas J. Steele	1.0
-Ruby Ann Boxcar	2.0
-Satyajit Das	1.0
-Sharyn McCrumb	1.0
-Stephen Leeb-Glen C. Strathy	1.0
-Susan Nanus-Norton Juster	1.0
-Tara MacCarthy	1.0
-Terry Jones	1.0
-Thomas E. Skidmore-Peter H. Smith	1.0
-Thomas Pynchon	8.0
-Tom Robbins	1.0
-Tom Wolfe	1.0
-Upasika Kee Nanayon-Thanissaro Bhikkhu	1.0
-V.T. Rajshekar-Y.N. Kly	1.0
-Vasant Moon-Gail Omvedt-Eleanor Zelliot	1.0
-Victor Davis Hanson	1.0
-W. Frederick Zimmerman	1.0
-Wendy Wasserstein	2.0
-William Golding	1.0
-William Golding-Ben Gibson-E.M. Forster-Edmund L. Epstein	1.0
-William Shakespeare	1.0
-William Shakespeare-Chris Abraham-Barry Avrich	1.0
-William Shakespeare-Frances Barber-Roger Allam-Arkangel Cast	1.0
-William Shakespeare-Jay L. Halio	1.0
-William Shakespeare-Roma Gill	1.0
-William Shakespeare-SparkNotes	1.0
-William Shakespeare-Stephen Orgel-A.R. Braunmuller	1.0
-William Shakespeare-Von	1.0
-Zilpha Keatley Snyder	2.0
-authors	1.0
+100 Years of Lynchings	1.0
+1000 Record Covers	1.0
+A Book of Common Prayer	1.0
+A Changeling for All Seasons (Changeling Seasons #1)	1.0
+A Long Shadow (Inspector Ian Rutledge  #8)	1.0
+A Shadow in Summer (Long Price Quartet  #1)	1.0
+A Short History of Nearly Everything	1.0
+A War Like No Other: How the Athenians & Spartans Fought the Peloponnesian War	1.0
+A Wrinkle in Time: A Guide for Using "A Wrinkle in Time" in the Classroom	1.0
+A Wrinkle in Time: With Related Readings (A Wrinkle in Time Quintet #1)	1.0
+Active Literacy Across the Curriculum: Strategies for Reading  Writing  Speaking  and Listening	1.0
+Against the Day	1.0
+Agile Web Development with Rails: A Pragmatic Guide	1.0
+Always Enough: God's Miraculous Provision Among the Poorest Children on Earth	1.0
+America (The Book): A Citizen's Guide to Democracy Inaction	1.0
+Americana	1.0
+Angels & Demons (Robert Langdon  #1)	1.0
+Anna Karenina	6.0
+Annals of the Former World	1.0
+Another Bullshit Night in Suck City	1.0
+Anthem	1.0
+Artesia: Adventures in the Known World	1.0
+Atlas Shrugged	1.0
+Been Down So Long It Looks Like Up To Me	1.0
+Best of London (Lonely Planet Best Of)	1.0
+Bowling Alone: The Collapse and Revival of American Community	1.0
+Boys of Summer	1.0
+Capitalism: The Unknown Ideal	1.0
+Changeling (Changeling  #1)	1.0
+Chapterhouse: Dune (Dune Chronicles #6)	1.0
+Children of Dune (Dune Chronicles #3)	1.0
+Cien aÃ±os de soledad	3.0
+City of Glass (The New York Trilogy  #1)	1.0
+CliffsNotes on Tolstoy's Anna Karenina	1.0
+Collapse of Complex Societies	1.0
+Collapse: How Societies Choose to Fail or Succeed	1.0
+Collected Stories	1.0
+Coming Into the Country	1.0
+Cooking with Fernet Branca (Gerald Samper  #1)	1.0
+Cosmopolis	1.0
+Cryptonomicon	1.0
+CrÃ³nica de una muerte anunciada	1.0
+Da Vinci Code (Robert Langdon  #2)	1.0
+Dalit: The Black Untaouchables of India	1.0
+Daniel Deronda	1.0
+Deception Point	1.0
+Del amor y otros demonios	1.0
+Democracy	1.0
+Destroy  She Said	1.0
+Digging to America	1.0
+Dinner with Anna Karenina	1.0
+Douglas Adams's Starship Titanic	1.0
+Dreamer of Dune: The Biography of Frank Herbert	1.0
+Dune Messiah (Dune Chronicles #2)	1.0
+El perfume: Historia de un asesino	1.0
+Emotional Design: Why We Love (or Hate) Everyday Things	1.0
+First Impressions	1.0
+For the New Intellectual: The Philosophy of Ayn Rand	1.0
+Fullmetal Alchemist  Vol. 1 (Fullmetal Alchemist  #1)	1.0
+Fullmetal Alchemist  Vol. 2 (Fullmetal Alchemist  #2)	1.0
+Fullmetal Alchemist  Vol. 3 (Fullmetal Alchemist  #3)	1.0
+Fullmetal Alchemist  Vol. 4 (Fullmetal Alchemist  #4)	1.0
+Fullmetal Alchemist  Vol. 8 (Fullmetal Alchemist  #8)	1.0
+Fullmetal Alchemist  Vol. 9 (Fullmetal Alchemist  #9)	1.0
+Geisha of Gion	1.0
+Getting Results with Curriculum Mapping	1.0
+Ghosts (The New York Trilogy  #2)	1.0
+Giving Good Weight	1.0
+God Emperor of Dune (Dune Chronicles  #4)	1.0
+Golding's Lord of the Flies (Cliffs Notes)	1.0
+Golgotha (Cryptonomicon  #3)	1.0
+Gravity's Rainbow	2.0
+Great Jones Street	1.0
+Growing Up Untouchable in India: A Dalit Autobiography	1.0
+Guidebook to Zen and the Art of Motorcycle Maintenance	1.0
+Guts: The True Stories behind Hatchet and the Brian Books	1.0
+HTML  XHTML  and CSS (Visual Quickstart Guide)	1.0
+Harrington on Hold 'em: Expert Strategy for No-Limit Tournaments  Volume I: Strategic Play	1.0
+Harrington on Hold 'em: Expert Strategy for No-Limit Tournaments  Volume II: The Endgame	1.0
+Harry Potter Boxed Set  Books 1-5 (Harry Potter  #1-5)	1.0
+Harry Potter Collection (Harry Potter  #1-6)	1.0
+Harry Potter and the Chamber of Secrets (Harry Potter  #2)	1.0
+Harry Potter and the Half-Blood Prince (Harry Potter  #6)	1.0
+Harry Potter and the Order of the Phoenix (Harry Potter  #5)	1.0
+Harry Potter and the Prisoner of Azkaban (Harry Potter  #3)	1.0
+Harry Potter and the Sorcerer's Stone (Harry Potter  #1)	1.0
+Hatchet	1.0
+Hatchet Jobs: Writings on Contemporary Fiction	1.0
+Hatchet: A Guide for Using "Hatchet" in the Classroom	1.0
+Heidi	1.0
+Heirs of General Practice	1.0
+Henry Miller on Writing	1.0
+Heretics of Dune (Dune Chronicles  #5)	1.0
+Heretics of Dune (Dune Chronicles #5)	1.0
+How to Buy  Sell & Profit on eBay: Kick-Start Your Home-Based Business in Just Thirty Days	1.0
+Hunters Of Dune (Dune Chronicles  #7)	1.0
+I am Charlotte Simmons	1.0
+I'm a Stranger Here Myself: Notes on Returning to America After Twenty Years Away	1.0
+In a Sunburned Country	1.0
+Interface	1.0
+J.R.R. Tolkien 4-Book Boxed Set: The Hobbit and The Lord of the Rings	1.0
+Jesus the Son of Man	1.0
+Jitterbug Perfume	1.0
+Job: A Comedy of Justice	1.0
+Jungle Love	1.0
+Kahlil Gibran: His Life and World	1.0
+Killing Yourself to Live: 85% of a True Story	1.0
+King Lear	1.0
+King Lear (No Fear Shakespeare)	1.0
+L'Amant de la Chine du Nord	1.0
+L'alchimiste	1.0
+LOGO Lounge: 2 000 International Identities by Leading Designers	1.0
+La Place de la Concorde Suisse	1.0
+Le RÃ©seau Kinakuta (Cryptonomicon  #2)	1.0
+Letters of Ayn Rand	1.0
+Leviathan	1.0
+Libra	1.0
+Lincoln at Gettysburg: The Words That Remade America	1.0
+Literature Circle Guide: A Wrinkle in Time	1.0
+Living to Tell the Tale	1.0
+London	1.0
+London: City Guide (Lonely Planet City Guide)	1.0
+Lonely Planet Londres	1.0
+Long Way Round: Chasing Shadows Across the World	1.0
+Lord of the Flies	2.0
+Love As A Foreign Language #5	1.0
+Love Letters	1.0
+Lovely in Her Bones (Elizabeth MacPherson  #2)	1.0
+Macbeth (Graphic Shakespeare)	1.0
+Mao II	1.0
+Mapping the Big Picture: Integrating Curriculum & Assessment K-12	1.0
+Mason & Dixon	1.0
+Memoirs Of A Geisha	1.0
+Memoirs of a Geisha	4.0
+Memoirs of a Geisha: A Portrait of the Film	1.0
+Memoria de mis putas tristes	1.0
+Miami Blues (Hoke Mosely #1)	1.0
+Modern Latin America	1.0
+Moisson mortelle	1.0
+Molly Hatchet - 5 of the Best	1.0
+Moon Palace	1.0
+Mostly Harmless (Hitchhiker's Guide to the Galaxy  #5)	1.0
+Motorcycle Basics Techbook	1.0
+My Inventions	1.0
+Naked Pictures of Famous People	1.0
+Natural Cures "They" Don't Want You to Know about	1.0
+Neither Here nor There: Travels in Europe	1.0
+Neon Lit: Paul Auster's City of Glass	1.0
+New Hope for the Dead (Hoke Mosely #2)	1.0
+Nexus (The Rosy Crucifixion  #3)	1.0
+Nikola Tesla: A Spark of Genius	1.0
+No Price Too High: A Pentecostal Preacher Becomes Catholic - The Inspirational Story of Alex Jones as Told to Diane Hanson	1.0
+Notes from a Small Island	1.0
+Odalisque (The Baroque Cycle  Vol. 1  Book 3)	1.0
+Of Mice and Men	2.0
+Off the Main Sequence: The Other Science Fiction Stories of Robert A. Heinlein	1.0
+On Beyond Zebra!	1.0
+On Bullshit	1.0
+Once Upon a Cool Motorcycle Dude	1.0
+One Hundred Years of Solitude	1.0
+Out to Eat London 2002 (Lonely Planet Out to Eat)	1.0
+Perfume: The Story of a Murderer	1.0
+Play It as It Lays	1.0
+Poetry for Young People: Edward Lear	1.0
+Pompeii	1.0
+Power of an Hour: Business and Life Mastery in One Hour a Week	1.0
+Programming Ruby: The Pragmatic Programmers' Guide	1.0
+Pure and Simple: The Extraordinary Teachings of a Thai Buddhist Laywoman	1.0
+Pyramids of Montauk: Explorations in Consciousness	1.0
+Quicksilver (The Baroque Cycle  #1)	1.0
+Quiet Days in Clichy	1.0
+Rails Cookbook: Recipes for Rapid Web Development with Ruby	1.0
+Reefer Madness: Sex  Drugs  and Cheap Labor in the American Black Market	1.0
+Reinventing the Enemy's Language: Contemporary Native Women's Writings of North America	1.0
+Rereading America: Cultural Contexts for Critical Thinking and Writing	1.0
+Rising from the Plains	1.0
+Ruby Ann's Down Home Trailer Park BBQin' Cookbook	1.0
+Ruby Ann's Down Home Trailer Park Cookbook	1.0
+Ruby Cookbook	1.0
+Running Dog	1.0
+Sailing Alone Around the Room: New and Selected Poems	1.0
+Sailing for Dummies	1.0
+Sailing from Byzantium: How a Lost Empire Shaped the World	1.0
+Salmon of Doubt: Hitchhiking the Galaxy One Last Time	1.0
+Sand and Foam	1.0
+Sex  Drugs  and Cocoa Puffs: A Low Culture Manifesto	1.0
+Sexus (The Rosy Crucifixion  #1)	1.0
+Sideswipe: A Hoke Moseley Novel	1.0
+Simply Beautiful Beaded Jewelry	1.0
+Simply Beautiful Beading: 53 Quick and Easy Projects	1.0
+Slow Learner: Early Stories	1.0
+Snow Crash	2.0
+Starting an eBay Business for Dummies	1.0
+Stranger in a Strange Land	1.0
+Tesla Papers	1.0
+The 5 Love Languages / The 5 Love Languages Journal	1.0
+The Air-Conditioned Nightmare	1.0
+The Alchemist	2.0
+The Beloved: Reflections on the Path of the Heart	1.0
+The Big U	1.0
+The Broken Wings	1.0
+The Brooklyn Follies	1.0
+The Changeling	2.0
+The Changeling (Daughters of England  #15)	1.0
+The Changeling Sea	1.0
+The Cobweb	1.0
+The Collapse of the Common Good: How America's Lawsuit Culture Undermines Our Freedom	1.0
+The Coming Economic Collapse: How You Can Thrive When Oil Costs $200 a Barrel	1.0
+The Confusion (The Baroque Cycle  #2)	1.0
+The Control of Nature	1.0
+The Crying of Lot 49	1.0
+The Da Vinci Code	1.0
+The Da Vinci Code (Robert Langdon  #2)	1.0
+The Death of Ivan Ilych And Other Stories	1.0
+The Design of Everyday Things	1.0
+The Diamond Age: Or  A Young Lady's Illustrated Primer	1.0
+The Door Into Summer	1.0
+The Egypt Game	1.0
+The Elegant Universe: Superstrings  Hidden Dimensions  and the Quest for the Ultimate Theory	1.0
+The Evidence-Based Social Work Skills Book	1.0
+The Fellowship of the Ring (The Lord of the Rings  #1)	1.0
+The Fountainhead	1.0
+The Game: Penetrating the Secret Society of Pickup Artists	1.0
+The Gettysburg Address	1.0
+The Greatest Sailing Stories Ever Told: Twenty-Seven Unforgettable Stories	1.0
+The Heidi Chronicles	1.0
+The Heidi Chronicles: Uncommon Women and Others & Isn't It Romantic	1.0
+The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy  #1)	2.0
+The Invention of Tradition	1.0
+The John McPhee Reader (John McPhee Reader  #1)	1.0
+The Kingdom of God Is Within You	1.0
+The Kite Runner	1.0
+The Known World	4.0
+The Last Days of Pompeii	1.0
+The Locked Room (The New York Trilogy  #3)	1.0
+The Long Dark Tea-Time of the Soul (Dirk Gently  #2)	1.0
+The Long Shadow (The Morland Dynasty  #6)	1.0
+The Lord of the Rings (The Lord of the Rings  #1-3)	3.0
+The Lord of the Rings Box Set	1.0
+The Lord of the Rings: Complete Visual Companion	1.0
+The Lord of the Rings: Weapons and Warfare	1.0
+The Lost Continent: Travels in Small Town America	1.0
+The Lovely Bones	2.0
+The Lover	1.0
+The Mini Rough Guide to London	1.0
+The Moon is a Harsh Mistress	1.0
+The Mother Tongue: English and How It Got That Way	1.0
+The Music of Chance	1.0
+The Names	1.0
+The Natural	1.0
+The New York Trilogy	1.0
+The Notebooks of Lazarus Long	1.0
+The Phantom Tollbooth	1.0
+The Phantom Tollbooth: A Children's Play in Two Acts	1.0
+The Player's Handbook: The Ultimate Guide on Dating and Relationships	1.0
+The Plot Against America	1.0
+The Portrait of a Lady	2.0
+The Power of One (The Power of One  #1)	2.0
+The Power of One: One Person  One Rule  One Month	1.0
+The Power of One: The Solo Play for Playwrights  Actors  and Directors	1.0
+The Psychology of Everyday Things	1.0
+The Puffin Book of Nonsense Verse	1.0
+The Ravishing of Lol Stein	1.0
+The Red Notebook: True Stories	1.0
+The Road to Dune (Dune Universe)	1.0
+The Salmon of Doubt (Dirk Gently  #3)	1.0
+The Taming of the Shrew	4.0
+The Tragedy of King Lear	1.0
+The Ultimate Hitchhiker's Guide (Hitchhiker's Guide to the Galaxy #1-5)	1.0
+The Ultimate Hitchhiker's Guide to the Galaxy	1.0
+The Ultimate Hitchhiker's Guide: Five Complete Novels and One Story (Hitchhiker's Guide to the Galaxy  #1-5)	1.0
+The Untouchable	1.0
+The Untouchables	1.0
+The Virtue of Selfishness: A New Concept of Egoism	1.0
+The War	1.0
+The Wedding Clause	1.0
+The Westing Game	1.0
+The White Album	1.0
+The Year of Magical Thinking	1.0
+The Zebra Wall	1.0
+The Zen of CSS Design: Visual Enlightenment for the Web	1.0
+There's Always Enough: The Miraculous Move of God in Mozambique	1.0
+Three Nights in August: Strategy  Heartbreak  and Joy Inside the Mind of a Manager	1.0
+Timbuktu	1.0
+Timbuktu / Leviathan / Moon Palace	1.0
+Time for the Stars (Heinlein's Juveniles  #10)	1.0
+To Sail Beyond the Sunset	1.0
+Tolstoy: Anna Karenina	1.0
+Traders  Guns & Money: Knowns and Unknowns in the Dazzling World of Derivatives	1.0
+Travels in the Scriptorium	1.0
+Treasure Island	5.0
+Treasure Island (Great Illustrated Classics)	1.0
+Tropic of Cancer	1.0
+Tropic of Capricorn	1.0
+Una arruga en el tiempo â€“ A Wrinkle in Time	1.0
+Unauthorized Harry Potter Book Seven News: "Half-Blood Prince" Analysis and Speculation	1.0
+Uncommon Carriers	1.0
+Underworld	1.0
+Untouchable	1.0
+Untouchables: My Family's Triumphant Journey Out of the Caste System in Modern India	1.0
+V.	1.0
+Vice (V  #8)	1.0
+Vineland	1.0
+War and Peace	1.0
+We Tell Ourselves Stories in Order to Live: Collected Nonfiction	1.0
+We Were Not Like Other People	1.0
+We the Living	1.0
+What to Expect the First Year (What to Expect)	1.0
+What to Sell on ebay and Where to Get It: The Definitive Guide to Product Sourcing for eBay and Beyond	1.0
+Where I Was From	1.0
+Why Write?	1.0
+Wish You Were Here: The Official Biography of Douglas Adams	1.0
+Wizard: The Life and Times of Nikola Tesla: Biography of a Genius	1.0
+Wrinkles in Time	1.0
+Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values	1.0
+Zodiac	1.0
+eBay Business All-in-One Desk Reference for Dummies	1.0
+eBay for Dummies	1.0
+eBay: Top 100 Simplified Tips & Tricks	1.0
+ebay Timesaving Techniques for Dummies	1.0
+title	1.0
