@@ -1,0 +1,140 @@
+﻿bookID	title											authors				average_rating	isbn		isbn13		language_code	 num_pages	ratings_count	text_reviews_count	
+1	Harry Potter and the Half-Blood Prince (Harry Potter  #6)				J.K. Rowling-Mary GrandPré	4.56		439785960	9.78044E+12	eng			652	1944099		26249	
+2	Harry Potter and the Order of the Phoenix (Harry Potter  #5)				J.K. Rowling-Mary GrandPré	4.49		439358078	9.78044E+12	eng			870	1996446		27613	
+3	Harry Potter and the Sorcerer's Stone (Harry Potter  #1)				J.K. Rowling-Mary GrandPré	4.47		439554934	9.78044E+12	eng			320	5629932		70390	
+4	Harry Potter and the Chamber of Secrets (Harry Potter  #2)				J.K. Rowling			4.41		439554896	9.78044E+12	eng			352	6267		272	
+5	Harry Potter and the Prisoner of Azkaban (Harry Potter  #3)				J.K. Rowling-Mary GrandPré	4.55		043965548X	9.78044E+12	eng			435	2149872		33964	
+8	Harry Potter Boxed Set  Books 1-5 (Harry Potter  #1-5)					J.K. Rowling-Mary GrandPré	4.78		439682584	9.78044E+12	eng			2690	38872		154	
+9	Unauthorized Harry Potter Book Seven News: "Half-Blood Prince" Analysis and Speculation	W. Frederick Zimmerman		3.69		976540606	9.78098E+12	en-US			152	18		1	
+10	Harry Potter Collection (Harry Potter  #1-6)						J.K. Rowling			4.73		439827604	9.78044E+12	eng			3342	27410		820	
+12	The Ultimate Hitchhiker's Guide: Five Complete Novels and One Story 			Douglas Adams			4.38		517226952	9.78052E+12	eng			815	3602		258	
+13	The Ultimate Hitchhiker's Guide to the Galaxy						Douglas Adams			4.38		345453743	9.78035E+12	eng			815	240189		3954	
+14	The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy  #1)		Douglas Adams			4.22		1400052920	9.7814E+12	eng			215	4416		408	
+16	The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy  #1)		Douglas Adams-Stephen Fry	4.22		739322206	9.78074E+12	eng			6	1222		253	
+18	The Ultimate Hitchhiker's Guide (Hitchhiker's Guide to the Galaxy #1-5)			Douglas Adams			4.38		517149257	9.78052E+12	en-US			815	2801		192	
+21	A Short History of Nearly Everything							Bill Bryson-William Roberts	4.2		076790818X	9.78077E+12	eng			544	228522		8840	
+22	Bill Bryson's African Diary								Bill Bryson			3.43		767915062	9.78077E+12	eng			55	6993		470	
+23	Bryson's Dictionary of Troublesome Words: A Writer's Guide to Getting It Right		Bill Bryson			3.88		767910435	9.78077E+12	eng			256	2020		124	
+24	In a Sunburned Country									Bill Bryson			4.07		767903862	9.78077E+12	eng			335	68213		4077	
+25	I'm a Stranger Here Myself: Notes on Returning to America After Twenty Years Away	Bill Bryson			3.9		076790382X	9.78077E+12	eng			304	47490		2153	
+26	The Lost Continent: Travels in Small Town America					Bill Bryson			3.83		60920084	9.78006E+12	en-US			299	43779		2146	
+27	Neither Here nor There: Travels in Europe						Bill Bryson			3.87		380713802	9.78038E+12	eng			254	46397		2127	
+28	Notes from a Small Island								Bill Bryson			3.92		380727501	9.78038E+12	eng			324	76476		3159	
+29	The Mother Tongue: English and How It Got That Way					Bill Bryson			3.94		380715430	9.78038E+12	eng			270	26672		1986	
+30	J.R.R. Tolkien 4-Book Boxed Set: The Hobbit and The Lord of the Rings			J.R.R. Tolkien			4.59		345538374	9.78035E+12	eng			1728	97731		1536	
+31	The Lord of the Rings (The Lord of the Rings  #1-3)					J.R.R. Tolkien			4.49		618517650	9.78062E+12	eng			1184	1670		91	
+32	The Lord of the Rings (The Lord of the Rings  #1-3)					J.R.R. Tolkien			4.49		618346244	9.78062E+12	eng			1137	2819		139	
+34	The Fellowship of the Ring (The Lord of the Rings  #1)					J.R.R. Tolkien			4.35		618346252	9.78062E+12	eng			398	2009749		12784	
+35	The Lord of the Rings (The Lord of the Rings  #1-3)					J.R.R. Tolkien-Alan  Lee	4.49		618260587	9.78062E+12	en-US			1216	1606		139	
+36	The Lord of the Rings: Weapons and Warfare	Chris   Smith-Christopher  		Lee-Richard Taylor		4.53		618391002	9.78062E+12	eng			218	18934		43	
+37	The Lord of the Rings: Complete Visual Companion					Jude Fisher			4.5		618510826	9.78062E+12	eng			224	343		6	
+38	The Lord of the Rings Box Set								J.R.R. Tolkien			4.49		618153977	9.78062E+12	eng			1223	216		19	
+40	Cooking with Fernet Branca (Gerald Samper  #1)						James Hamilton-Paterson		3.61		193337201X	9.78193E+12	eng			288	1214		202	
+45	Agile Web Development with Rails: A Pragmatic Guide					Fuchs-Andreas  Schwarz		3.89		097669400X	9.78098E+12	eng			558	1269		59	
+50	Hatchet											Gary Paulsen			3.7		689840926	9.78069E+12	eng			208	254827		11346	
+51	Hatchet: A Guide for Using "Hatchet" in the Classroom	 				Vasconcelles			3.97		1557344493	9.78156E+12	eng			48	35		2	
+53	Guts: The True Stories behind Hatchet and the Brian Books				Gary Paulsen			3.87		385326505	9.78039E+12	eng			144	1996		326	
+54	Molly Hatchet - 5 of the Best	 							Molly Hatchet			4.33		1575606240	9.78158E+12	eng			56	6		0	
+55	Hatchet Jobs: Writings on Contemporary Fiction						Dale Peck			3.48		1595580271	9.7816E+12	en-US			228	99		16	
+57	A Changeling for All Seasons (Changeling Seasons #1)					Hill-Willa Okati		3.75		1595962808	9.7816E+12	eng			304	167		4		
+58	Changeling (Changeling  #1)								Delia Sherman			3.6		670059676	9.78067E+12	eng			256	957		112	
+59	The Changeling Sea									Patricia A. McKillip		4.07		141312629	9.78014E+12	eng			137	4319		289	
+61	The Changeling										Zilpha Keatley Snyder		4.17		595321801	9.7806E+12	eng			228	1155		92	
+63	The Changeling										Kate Horsley			3.56		1590301943	9.78159E+12	eng			339	295		42	
+66	The Changeling (Daughters of England  #15)						Philippa Carr			3.99		449146979	9.78045E+12	eng			369	341		12	
+67	The Known World	Edward 									P. Jones			3.83		61159174	9.78006E+12	eng			388	28962		2576	
+68	The Known World	Edward 									P. Jones-Kevin R. Free		3.83		006076273X	9.78006E+12	en-US			14	50		12	
+69	The Known World	Edward 									P. Jones			3.83		60749911	9.78006E+12	eng			576	22		3	
+71	Traders  Guns & Money: Knowns and Unknowns in the Dazzling World of Derivatives		Satyajit Das			3.83		273704745	9.78027E+12	eng			334	1398		78	
+72	Artesia: Adventures in the Known World							Mark Smylie			4.16		1932386106	9.78193E+12	eng			352	50		4	
+73	The Known World	Edward									P. Jones			3.83		096513671X	9.78097E+12	eng			388	15		2	
+74	The John McPhee Reader (John McPhee Reader  #1)						John McPhee-William Howarth	4.43		374517193	9.78037E+12	eng			416	550		36	
+75	Uncommon Carriers									John McPhee			3.95		374280398	9.78037E+12	en-US			248	1561		192	
+76	Heirs of General Practice								John McPhee			4.15		374519749	9.78037E+12	eng			128	253		18	
+77	The Control of Nature									John McPhee			4.24		374522596	9.78037E+12	en-US			288	3365		290	
+78	Annals of the Former World								John McPhee			4.33		374518734	9.78037E+12	eng			720	2966		211	
+79	Coming Into the Country									John McPhee			4.22		374522871	9.78037E+12	eng			448	5452		245	
+80	La Place de la Concorde 								Suisse	John McPhee		3.91		374519323	9.78037E+12	eng			160	671		52	
+81	Giving Good Weight									John McPhee			4.22		374516006	9.78037E+12	eng			288	533		34	
+83	Rising from the Plains									John McPhee			4.22		374520658	9.78037E+12	eng			208	1263		91	
+85	The Heidi Chronicles									Wendy Wasserstein		3.73		822205106	9.78082E+12	eng			81	1348		69	
+86	The Heidi Chronicles: Uncommon Women and Others & Isn't It Romantic			Wendy Wasserstein		3.83		679734996	9.78068E+12	eng			249	2732		63	
+89	Active Literacy Across the Curriculum: Strategies for Reading  Writing  	 	Hayes Jacobs			3.94		1596670231	9.7816E+12	eng			138	31		1	
+90	Simply Beautiful Beaded Jewelry								Heidi Boyd			3.75		1581807740	9.78158E+12	en-US			128	61		4	
+91	Always Enough: God's Miraculous Provision Among the Poorest Children on Earth		Heidi Baker-Rolland Baker	4.45		800793617	9.7808E+12	eng			192	822		53	
+92	Mapping the Big Picture: Integrating Curriculum & Assessment K-12			Heidi Hayes Jacobs		3.7		871202867	9.78087E+12	en-US			72	71		2	
+93	Heidi	Johanna Spyri-Beverly 								Cleary-Angelo  Rinaldi		3.98		753454947	9.78075E+12	eng			352	150657		2175	
+94	Getting Results with Curriculum Mapping	Heidi 						Hayes Jacobs			3.28		871209993	9.78087E+12	eng			192	53		5	
+96	There's Always Enough: The Miraculous Move of God in Mozambique	Rolland Baker- 		Heidi Baker			4.45		1852402873	9.78185E+12	eng			192	34		6	
+98	What to Expect the First Year (What to Expect)	Heidi Murkoff-Sharon 			k D. Widome			3.88		761129588	9.78076E+12	eng			832	11489		658	
+99	The Player's Handbook: The Ultimate Guide on Dating and Relationships			Heidi Fleiss-Libby Keatinge	3.82		972016414	9.78097E+12	eng			123	34		8	
+100	Simply Beautiful Beading: 53 Quick and Easy Projects					Heidi Boyd			3.75		1581805632	9.78158E+12	en-US			128	75		4	
+103	God Emperor of Dune (Dune Chronicles  #4)						Frank Herbert			3.83		441294677	9.78044E+12	eng			423	2692		168	
+105	Chapterhouse: Dune (Dune Chronicles #6)							Frank Herbert			3.9		441102670	9.78044E+12	eng			436	38651		552	
+106	Dune Messiah (Dune Chronicles #2)							Frank Herbert			3.87		441172695	9.78044E+12	eng			331	96649		2306	
+107	Dreamer of Dune: The Biography of Frank Herbert						Brian Herbert			4		765306476	9.78077E+12	en-US			592	755		21	
+109	Heretics of Dune (Dune Chronicles  #5)							Frank Herbert			3.85		399128980	9.7804E+12	eng			480	261		18	
+110	The Road to Dune (Dune Universe)							Frank Herbert			3.87		765353709	9.78077E+12	eng			426	4561		76	
+112	Children of Dune (Dune Chronicles #3)							Frank Herbert			3.92		441104029	9.78044E+12	eng			408	84276		1370	
+117	Heretics of Dune (Dune Chronicles #5)							Frank Herbert			3.85		441328008	9.78044E+12	eng			471	45211		616	
+122	The Power of One (The Power of One  #1)							Bryce Courtenay			4.35		034541005X	9.78035E+12	eng			544	66687		4445	
+123	The Power of One (The Power of One  #1)							Bryce Courtenay			4.35		385732546	9.78039E+12	eng			291	44		12	
+129	The Power of One: One Person  One Rule  One Month	John C. Maxwell-Stephen 	R. Graves-Thomas G. Addington	4.28		785260056	9.78079E+12	en-US			256	16		1	
+130	Power of an Hour: Business and Life Mastery in One Hour a Week				Dave Lakhani	 		3.31		471780936	9.78047E+12	eng			205	163		16	
+131	The Power of One: The Solo Play for Playwrights  Actors  and Directors			Louis E. Catron			3.79		325001537	9.78033E+12	eng			240	10		0	
+132	How to Buy  Sell & Profit on eBay: Kick-Start Your Home-Based Business in Just 		Adam Ginsberg			3.49		006076287X	9.78006E+12	eng			336	73		9	
+133	eBay for Dummies									Marsha Collier			3.5		470045299	9.78047E+12	eng			386	102		9	
+135	What to Sell on ebay and Where to Get It: The Definitive Guide to Product Sourcing 	Chris Malta-Lisa Suttora	3.62		72262788	9.78007E+12	eng			260	24		0	
+137	Starting an eBay Business for Dummies							Marsha Collier			3.52		764569244	9.78076E+12	eng			384	51		4	
+138	eBay: Top 100 Simplified Tips & Tricks							Julia Wilkinson			4.27		471933821	9.78047E+12	eng			260	9		0	
+139	ebay Timesaving Techniques for Dummies							Marsha Collier			3.55		764559915	9.78076E+12	en-US			391	19		1	
+140	eBay Business All-in-One Desk Reference for Dummies					Marsha Collier			3.89		764584383	9.78076E+12	en-US			864	17		3	
+141	Ruby Cookbook										Lucas Carlson 			3.82		596523696	9.7806E+12	eng			873	163		4	
+142	Ruby Ann's Down Home Trailer Park Cookbook						Ruby Ann Boxcar			4.09		806523492	9.78081E+12	eng			240	47		5	
+144	Ruby Ann's Down Home Trailer Park BBQin' Cookbook					Ruby Ann Boxcar			4.08		806525363	9.78081E+12	eng			206	12		2	
+147	Rails Cookbook: Recipes for Rapid Web Development with Ruby				Rob Orsini			3.65		596527314	9.7806E+12	eng			514	49		1	
+151	Anna Karenina	Leo Tolstoy-Richard Pevear-						Larissa Volokhonsky		4.04		143035002	9.78014E+12	eng			838	15747		1795	
+152	Anna Karenina	Leo Tolstoy-David Magarshack-						Priscilla Meyer			4.04		451528611	9.78045E+12	eng			960	108970		5694	
+153	Anna Karenina	Leo Tolstoy-Richard Pevear-Larissa					Volokhonsky-John Bayley		4.04		140449175	9.78014E+12	eng			837	2835		300	
+154	CliffsNotes on Tolstoy's Anna Karenina							Marianne Sturman-Leo Tolstoy	3.89		822001837	9.78082E+12	eng			80	15		3	
+155	Anna Karenina	Leo Tolstoy-Amy Mandelker-						Constance Garnett		4.04		1593080271	9.78159E+12	eng			803	9362		710	
+156	Anna Karenina	Leo Tolstoy-Louise Maude-						Aylmer Maude			4.04		486437965	9.78049E+12	eng			752	460		71	
+157	Anna Karenina	Leo Tolstoy-Constance Garnett-						Amy Mandelker			4.04		1593081774	9.78159E+12	eng			803	298		47	
+159	Dinner with Anna Karenina								Gloria Goldreich		2.96		778322270	9.78078E+12	eng			368	400		64	
+160	Tolstoy: Anna Karenina									Anthony Thorlby			4.19		521313252	9.78052E+12	eng			128	1191		32	
+162	Untouchable										Mulk Raj Anand-E.M. Forster	3.7		140183957	9.78014E+12	eng			160	3168		250	
+163	The Untouchable										John Banville			3.96		679767479	9.78068E+12	eng			367	2077		209	
+164	The Untouchables									Eliot Ness-Oscar Fraley		3.89		1568491980	9.78157E+12	eng	256	587	29	
+165	Untouchables: My Family's Triumphant Journey Out of the Caste System in Modern India	Narendra Jadhav			3.82		743270797	9.78074E+12	en-US	320	299	39	
+166	Dalit: The Black Untaouchables of India	V.T. Rajshekar-Y.				N. Kly				4.33		932863051	9.78093E+12	eng	100	9	0	
+168	Growing Up Untouchable in India: A Dalit Autobiography Vasant Moon-Gail Omvedt-		Eleanor Zelliot			3.58		742508803	9.78074E+12	eng	224	16	4	
+171	The Evidence-Based Social Work Skills Book						Barry R. Cournoyer		3.4		205358624	9.78021E+12	eng	216	10	0	
+177	A Wrinkle in Time: A Guide for Using "A Wrinkle in Time" in the Classroom		John Carratello-Patty Carratel	3.94		1557344035	9.78156E+12	eng	48	17	0	
+180	Wrinkles in Time									George Smoot-Keay Davidson	3.99		380720442	9.78038E+12	en-US	360	985	23	
+181	A Wrinkle in Time: With Related Readings (A Wrinkle in Time Quintet #1)			Madeleine L'Engle		4.01		821925326	9.78082E+12	eng	250	37	7	
+182	Literature Circle Guide: A Wrinkle in Time						Tara MacCarthy			3.57		043927169X	9.78044E+12	eng	32	14	0	
+201	Una arruga en el tiempo – A Wrinkle in Time						Madeleine L'Engle		4.01		606105263	9.78061E+12	spa	205	6	1	
+204	The Long Shadow (The Morland Dynasty  #6)						Cynthia Harrod-Eagles		4.11		751506435	9.78075E+12	eng	367	366	16	
+205	A Long Shadow (Inspector Ian Rutledge  #8)						Charles Todd			4.11		006078671X	9.78006E+12	eng	352	2934		222	
+207	Long Way Round: Chasing Shadows Across the World					Ewan McGregor-Charley 		3.94		743499344	9.78074E+12	en-US	320	346	45	
+208	A Shadow in Summer (Long Price Quartet  #1)						Daniel Abraham			3.6		765313405	9.78077E+12	eng	331	9530	604	
+213	New Hope for the Dead (Hoke Mosely #2)							Charles Willeford-James Lee 	3.91		1400032490	9.7814E+12	eng	244	770	72	
+214	Sideswipe: A Hoke Moseley Novel								Charles Willeford-Lawrence 	4.04		1400032482	9.7814E+12	eng	215	688	68	
+216	Miami Blues (Hoke Mosely #1)								Charles Willeford-Elmore 	3.94		1400032466	9.7814E+12	eng	191	2739	158	
+231	I am Charlotte Simmons									Tom Wolfe			3.41		312424442	9.78031E+12	eng	738	20508	1686	
+237	Poetry for Young People: Edward Lear							Edward Lear-Laura Huliska	3.9		806930772	9.78081E+12	eng	48	64	18	
+244	The Puffin Book of Nonsense 								Quentin Blake			4.04		140366601	9.78014E+12	eng	287	76	6	
+245	Henry Miller on Writing									Henry Miller-Thomas H. Moore	4.23		811201120	9.78081E+12	eng	217	937	50	
+247	Quiet Days in Clichy									Henry Miller			3.69		080213016X	9.7808E+12	eng	154	3237	134	
+249	Tropic of Cancer									Henry Miller-Jiří Níl	3.69		802131786	9.7808E+12	eng	318	50905	2290	
+250	Tropic of Capricorn									Henry Miller			3.82		802151825	9.7808E+12	eng	348	13549	448	
+251	Nexus (The Rosy Crucifixion  #3)							Henry Miller			4.09		802151787	9.7808E+12	eng	316	3181	53	
+252	Sexus (The Rosy Crucifixion  #1)							Henry Miller			4.04		802151809	9.7808E+12	eng	506	7024	248	
+253	The Air-Conditioned Nightmare								Henry Miller			3.83		811201066	9.78081E+12	eng	292	2627	142	
+264	The Portrait of a Lady									Henry James-Patricia Crick	3.77		141439637	9.78014E+12	eng	797	60027	1854	
+269	The Portrait of a Lady									Henry James-Gabriel Brownstein	3.77		1593080964	9.78159E+12	eng	635	386	40	
+275	The Lover	Marguerite Duras-Barbara Bray-Maxine 					Hong Kingston			3.75		375700528	9.78038E+12	eng	117	22014	1363	
+278	The War	Marguerite 									Duras-Barbara Bray		3.85		1565842219	9.78157E+12	eng	192	918	62	
+280	The Ravishing of Lol Stein								Marguerite Duras-Richard Seever	3.67		394743040	9.78039E+12	en-US	181	1939	122	
+281	Destroy  She Said	Marguerite Duras-Barbara Bray-Helen				Lane Cumberford			3.68		080215154X	9.7808E+12	eng	133	532	41	
+283	L'Amant de la Chine du Nord								Marguerite Duras		3.89		2070388093	9.78207E+12	fre	246	312	23

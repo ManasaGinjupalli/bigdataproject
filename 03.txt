@@ -1,0 +1,232 @@
+	0
+Abraham Lincoln-Michael McCurdy	1.0
+Adam Ginsberg	1.0
+Alex C. Jones-Diane M. Hanson-Stephen K. Ray	1.0
+Alice Sebold	2.0
+Angela Knight-Sahara Kelly-Judy Mays-Marteeka Karland-Kate Douglas-Shelby Morgen-Lacey Savage-Kate Hill-Willa Okati	1.0
+Anne Tyler	1.0
+Anthony Thorlby	1.0
+Arthur Golden	5.0
+Ayn Rand	3.0
+Ayn Rand-Leonard Peikoff	2.0
+Ayn Rand-Michael S. Berliner-Leonard Peikoff	1.0
+Ayn Rand-Nathaniel Branden	1.0
+Ayn Rand-Nathaniel Branden-Alan Greenspan-Robert Hessen	1.0
+Barry R. Cournoyer	1.0
+Bernard Malamud-Kevin Baker	1.0
+Bill Bryson	6.0
+Bill Bryson-William Roberts	1.0
+Billy Collins	1.0
+Brian Greene	1.0
+Brian Herbert	1.0
+Brian Herbert-Kevin J. Anderson	1.0
+Bryce Courtenay	2.0
+Carol Dommermuth-Costa	1.0
+Catharine M. Fishel-Bill Gardner	1.0
+Charles Todd	1.0
+Charles Willeford-Elmore Leonard	1.0
+Charles Willeford-James Lee Burke	1.0
+Charles Willeford-Lawrence Block	1.0
+Chris   Smith-Christopher  Lee-Richard Taylor	1.0
+Chris Malta-Lisa Suttora	1.0
+Christopher Caswell	1.0
+Chuck Klosterman	2.0
+Colin  Wells	1.0
+Cynthia Harrod-Eagles	1.0
+Dale Peck	1.0
+Dan Brown	4.0
+Dan Brown-Daniel Roche	1.0
+Dan Harrington-Bill Robertie	2.0
+Daniel Abraham	1.0
+Dave Lakhani	1.0
+Dave Shea-Molly E. Holzschlag	1.0
+Dave Thomas-Chad Fowler-Andy Hunt	1.0
+Dave Thomas-David Heinemeier Hansson-Leon Breedt-Mike Clark-Thomas  Fuchs-Andreas  Schwarz	1.0
+David        James-Peggy Mulloy-Rob Marshall-Arthur Golden	1.0
+Debbie Raleigh	1.0
+Deidre S. Laiken-A.J. McAllister-Robert Louis Stevenson	1.0
+Delia Sherman	1.0
+Don DeLillo	8.0
+Donald A. Norman	3.0
+Donna Ickes-Edward Sciranko-Keith Vasconcelles	1.0
+Douglas Adams	7.0
+Douglas Adams-Christopher Cerf	1.0
+Douglas Adams-Stephen Fry	1.0
+Dr. Seuss	1.0
+Edward Bulwer-Lytton-John Gregory Betancourt	1.0
+Edward Lear-Laura Huliska-Beith-Edward Mendelson	1.0
+Edward P. Jones	3.0
+Edward P. Jones-Kevin R. Free	1.0
+Eliot Ness-Oscar Fraley	1.0
+Elizabeth Castro	1.0
+Ellen Raskin	1.0
+Ephraim Sevela-Antonina W. Bouis	1.0
+Eric Hobsbawm-Terence O. Ranger-Hugh Trevor-Roper-Prys Morgan-David Cannadine-Bernard S. Cohn	1.0
+Eric Schlosser	1.0
+Ewan McGregor-Charley Boorman-Robert Uhlig	1.0
+Frank Herbert	6.0
+Frank Herbert-Brian Herbert-Kevin J. Anderson	1.0
+Gabriel GarcÃ­a MÃ¡rquez	6.0
+Gabriel GarcÃ­a MÃ¡rquez-Edith Grossman	1.0
+Gabriel GarcÃ­a MÃ¡rquez-Gregory Rabassa	1.0
+Gabriel GarcÃ­a MÃ¡rquez-Gregory Rabassa-J.S. Bernstein	1.0
+Garry Wills	1.0
+Gary Chapman	1.0
+Gary Colombo-Bonnie Lisle	1.0
+Gary Paulsen	2.0
+George Eliot-Edmund White	1.0
+George Smoot-Keay Davidson	1.0
+Gloria Goldreich	1.0
+H.G. Bissinger	1.0
+Harry G. Frankfurt	1.0
+Heidi Baker-Rolland Baker	1.0
+Heidi Boyd	2.0
+Heidi Fleiss-Libby Keatinge	1.0
+Heidi Hayes Jacobs	3.0
+Heidi Murkoff-Sharon Mazel-Heidi Murkoff-Arlene Eisenberg-Sandee Hathaway-Mark D. Widome	1.0
+Henry James-Gabriel Brownstein-Mary Cregan	1.0
+Henry James-Patricia Crick	1.0
+Henry Miller	5.0
+Henry Miller-JiÅ™Ã­ NÃ­l	1.0
+Henry Miller-Thomas H. Moore	1.0
+Hiromu Arakawa-Akira Watanabe	6.0
+J. Torres-Eric  Kim	1.0
+J.J. Isler-Peter Isler	1.0
+J.K. Rowling	2.0
+J.K. Rowling-Mary GrandPrÃ©	5.0
+J.R.R. Tolkien	5.0
+J.R.R. Tolkien-Alan  Lee	1.0
+James Hamilton-Paterson	1.0
+Jane Feather	1.0
+Jared Diamond	1.0
+Jean Gibran-Ø¬Ø¨Ø±Ø§Ù† Ø®Ù„ÙŠÙ„ Ø¬Ø¨Ø±Ø§Ù†-Kahlil Gibran	1.0
+Joan Didion	5.0
+Joan Didion-David Thomson	1.0
+Joan Didion-John Leonard	1.0
+Johanna Spyri-Beverly Cleary-Angelo  Rinaldi	1.0
+John Banville	1.0
+John C. Maxwell-Stephen R. Graves-Thomas G. Addington	1.0
+John Carratello-Patty Carratello-Theresa Wright	1.0
+John Harold Haynes	1.0
+John McPhee	8.0
+John McPhee-William Howarth	1.0
+John Steinbeck	1.0
+John Steinbeck-Jim Taylor	1.0
+Jon Stewart	1.0
+Jon Stewart-Ben Karlin-David Javerbaum-Rich Bloomquist-Steve Bodow-Tim Carvell-Eric Drysdale-J.R. Havlan-Scott Jacobson-Tom Johnson-Rob Kutner-Chris Regan-Jason Reich-Jason Ross-Stephen Colbert-Samantha Bee-Rob Corddry-Brendan Hay-Ed Helms	1.0
+Joseph A. Tainter	1.0
+Joy Harjo-Gloria Bird-Beth Cuthand-Valerie Martinez-Patricia Blanco	1.0
+Jude Fisher	1.0
+Julia Wilkinson	1.0
+Julie Elizabeth Leto-Leslie Kelly-Kimberly Raye	1.0
+Kahlil Gibran-John Walbridge-Robin Waterfield	1.0
+Kahlil Gibran-Suheil Bushrui-Salma H. Al-Kuzbari	1.0
+Kahlil Gibran-Ø¬Ø¨Ø±Ø§Ù† Ø®Ù„ÙŠÙ„ Ø¬Ø¨Ø±Ø§Ù†	2.0
+Kahlil Gibran-Ø¬Ø¨Ø±Ø§Ù† Ø®Ù„ÙŠÙ„ Ø¬Ø¨Ø±Ø§Ù†-Anthony R. Ferris	1.0
+Kate Horsley	1.0
+Kevin Henkes	1.0
+Kevin O'Malley-Carol Heyer-Scott Goto	1.0
+Kevin Trudeau	1.0
+Khaled Hosseini	1.0
+Leo Tolstoy-Amy Mandelker-Constance Garnett	1.0
+Leo Tolstoy-Constance Garnett	1.0
+Leo Tolstoy-Constance Garnett-Amy Mandelker	1.0
+Leo Tolstoy-David Magarshack-Priscilla Meyer	1.0
+Leo Tolstoy-Henry Gifford-Aylmer Maude-Louise Maude	1.0
+Leo Tolstoy-Hugh McLean	1.0
+Leo Tolstoy-Louise Maude-Aylmer Maude	1.0
+Leo Tolstoy-Richard Pevear-Larissa Volokhonsky	1.0
+Leo Tolstoy-Richard Pevear-Larissa Volokhonsky-John Bayley	1.0
+Leonard Goldberg	1.0
+Lonely Planet-Mark Honan	1.0
+Lonely Planet-Sarah Johnstone-Steve Fallon	1.0
+Lonely Planet-Sarah Johnstone-Tom Masters	2.0
+Lonely Planet-Steve Fallon-Pat Yale	1.0
+Louis E. Catron	1.0
+Lucas Carlson-Leonard Richardson	1.0
+Madeleine L'Engle	2.0
+Marc J.  Seifer-William H. Terbo	1.0
+Margaret Johnson-Philip Prowse	1.0
+Marguerite Duras	1.0
+Marguerite Duras-Barbara Bray-Helen Lane Cumberford	1.0
+Marguerite Duras-Barbara Bray-Maxine Hong Kingston	1.0
+Marguerite Duras-Barbara Bray-Ù‚Ù„Ø³Ù… Ø±ÙˆØ¨ÛŒÙ†	1.0
+Marguerite Duras-Richard Seever	1.0
+Marianne Sturman-Leo Tolstoy	1.0
+Mark Smylie	1.0
+Marsha Collier	4.0
+Maureen Kelly-CliffsNotes-William Golding	1.0
+Michael Ochs-Patrick Javault-Ulrike Wasel	1.0
+Mineko Iwasaki-Rande Brown	1.0
+Molly Hatchet	1.0
+Mulk Raj Anand-E.M. Forster	1.0
+Narendra Jadhav	1.0
+Neal Stephenson	10.0
+Neal Stephenson-George F. Jewsbury-Stephen  Bury	1.0
+Neal Stephenson-J. Frederick George	1.0
+Neal Stephenson-Joachim KÃ¶rber	1.0
+Neil Strauss	1.0
+Nick  Webb	1.0
+Nick Flynn	1.0
+Nikola Tesla	1.0
+Nikola Tesla-David Hatcher Childress	1.0
+Nora Roberts	1.0
+Norton Juster-Jules Feiffer	1.0
+Patricia A. McKillip	1.0
+Patrick SÃ¼skind	1.0
+Patrick SÃ¼skind-John E. Woods	1.0
+Paul Auster	12.0
+Paul Auster-Art Spiegelman-Luc Sante	1.0
+Paul Karasik-David Mazzucchelli-Paul Auster-Bob Callahan	1.0
+Paulo Coelho-Alan R. Clarke-James Noel Smith	1.0
+Paulo Coelho-Alan R. Clarke-Ã–zdemir Ä°nce	1.0
+Paulo Coelho-Jean Orecchioni	1.0
+Peter Moon-Preston B. Nichols-Nina Helms	1.0
+Philip K. Howard	1.0
+Philip Roth	1.0
+Philippa Carr	1.0
+Quentin Blake	1.0
+Ralph Ginzburg	1.0
+Richard FariÃ±a-Thomas Pynchon	1.0
+Rob Humphreys-Beth Chaplin-Rebecca Morrill	1.0
+Rob Orsini	1.0
+Robert   Harris	1.0
+Robert A. Heinlein	7.0
+Robert A. Heinlein-Stephen Hickman	1.0
+Robert D. Putnam	1.0
+Robert Louis Stevenson	2.0
+Robert Louis Stevenson-Milo Winter	1.0
+Robert Louis Stevenson-N.C. Wyeth-Timothy Meis	1.0
+Robert Louis Stevenson-Scott McKowen	1.0
+Robert M. Pirsig	1.0
+Rolland Baker-Heidi Baker	1.0
+Ronald L. DiSanto-Thomas J. Steele	1.0
+Ruby Ann Boxcar	2.0
+Satyajit Das	1.0
+Sharyn McCrumb	1.0
+Stephen Leeb-Glen C. Strathy	1.0
+Susan Nanus-Norton Juster	1.0
+Tara MacCarthy	1.0
+Terry Jones	1.0
+Thomas E. Skidmore-Peter H. Smith	1.0
+Thomas Pynchon	8.0
+Tom Robbins	1.0
+Tom Wolfe	1.0
+Upasika Kee Nanayon-Thanissaro Bhikkhu	1.0
+V.T. Rajshekar-Y.N. Kly	1.0
+Vasant Moon-Gail Omvedt-Eleanor Zelliot	1.0
+Victor Davis Hanson	1.0
+W. Frederick Zimmerman	1.0
+Wendy Wasserstein	2.0
+William Golding	1.0
+William Golding-Ben Gibson-E.M. Forster-Edmund L. Epstein	1.0
+William Shakespeare	1.0
+William Shakespeare-Chris Abraham-Barry Avrich	1.0
+William Shakespeare-Frances Barber-Roger Allam-Arkangel Cast	1.0
+William Shakespeare-Jay L. Halio	1.0
+William Shakespeare-Roma Gill	1.0
+William Shakespeare-SparkNotes	1.0
+William Shakespeare-Stephen Orgel-A.R. Braunmuller	1.0
+William Shakespeare-Von	1.0
+Zilpha Keatley Snyder	2.0
+authors	1.0
